@@ -1,0 +1,5 @@
+model_name,mode,val_acc,params,train_time_min,ckpt_path
+resnet18,fe,0.905,3078,5.6842709143956505,checkpoints\resnet18_fe_best.pth
+resnet18,ft,0.9293333333333333,11179590,4.184795959790548,checkpoints\resnet18_ft_best.pth
+efficientnet_b0,fe,0.8816666666666667,7686,6.387740969657898,checkpoints\efficientnet_b0_fe_best.pth
+efficientnet_b0,ft,0.9423333333333334,4015234,14.231809425354005,checkpoints\efficientnet_b0_ft_best.pth
